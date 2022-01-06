@@ -4,4 +4,6 @@
 
 ### Languages
 ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
-
+### Instruments
+![Xcode](https://img.shields.io/badge/-Xcode-05122A?style=flat&logo=Xcode&logoColor=#448EE2)
+![Cocoapods](https://img.shields.io/badge/-CocoaPods-05122A?style=flat&logo=CocoaPods&logoColor=#E64225)
