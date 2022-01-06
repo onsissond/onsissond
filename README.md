@@ -8,7 +8,8 @@
 ### Instruments
 ![Xcode](https://img.shields.io/badge/-Xcode-05122A?style=flat&logo=Xcode&logoColor=448EE2)
 ![Cocoapods](https://img.shields.io/badge/-CocoaPods-05122A?style=flat&logo=CocoaPods&logoColor=E64225)
-![GitHub Actions](https://img.shields.io/badge/-GitHubActions-05122A?style=flat&logo=GitHubActions&logoColor=2088FF)
+![Swift Package](https://img.shields.io/badge/-Swift Package-05122A?style=flat&logo=HackTheBox&logoColor=FFFFFF)
+![GitHub Actions](https://img.shields.io/badge/-GitHub Actions-05122A?style=flat&logo=GitHubActions&logoColor=2088FF)
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma&logoColor=F24E1E)
 ![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=JiraSoftware&logoColor=0052CC)
 
