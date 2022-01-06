@@ -10,6 +10,7 @@
 ![Cocoapods](https://img.shields.io/badge/-CocoaPods-05122A?style=flat&logo=CocoaPods&logoColor=#E64225)
 ![GitHub Actions](https://img.shields.io/badge/-GitHubActions-05122A?style=flat&logo=GitHubActions&logoColor=#2088FF)
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma&logoColor=#F24E1E)
+![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=JiraSoftware&logoColor=#0052CC)
 
 ### Tech Stack
 - 🏛 **Architecture**: MVC, MVVM, MVP, VIPER, [RxFeedback](https://github.com/NoTests/RxFeedback.swift), [ComposableArchitecture](https://github.com/pointfreeco/swift-composable-architecture)
