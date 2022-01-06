@@ -10,3 +10,8 @@
 ![Cocoapods](https://img.shields.io/badge/-CocoaPods-05122A?style=flat&logo=CocoaPods&logoColor=#E64225)
 ![GitHub Actions](https://img.shields.io/badge/-GitHubActions-05122A?style=flat&logo=GitHubActions&logoColor=#2088FF)
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma&logoColor=#F24E1E)
+
+### Tech Stack
+- 🏛 **Architecture**: MVC, MVVM, MVP, VIPER, RxFeedback, ComposableArchitecture
+- ⚡ **Reactive programming**: RxSwift, RxCocoa, RxGesture, RxMoya, NSObject-Rx, RxWebKit, Combine
+- ⚙ **Instruments**: SwiftLint, SwiftGen, SwiftFormat
