@@ -12,6 +12,6 @@
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma&logoColor=#F24E1E)
 
 ### Tech Stack
-- 🏛 **Architecture**: MVC, MVVM, MVP, VIPER, RxFeedback, ComposableArchitecture
-- ⚡ **Reactive programming**: RxSwift, RxCocoa, RxGesture, RxMoya, NSObject-Rx, RxWebKit, Combine
+- 🏛 **Architecture**: MVC, MVVM, MVP, VIPER, [RxFeedback](https://github.com/NoTests/RxFeedback.swift), [ComposableArchitecture](https://github.com/pointfreeco/swift-composable-architecture)
+- ⚡ **Reactive programming**: [RxSwift](https://github.com/ReactiveX/RxSwift), [RxCocoa](https://github.com/ReactiveX/RxSwift/tree/main/RxCocoa), [RxGesture](https://github.com/RxSwiftCommunity/RxGesture), [RxMoya](https://github.com/Moya/Moya), [NSObject-Rx](https://github.com/RxSwiftCommunity/NSObject-Rx), [RxWebKit](https://github.com/RxSwiftCommunity/RxWebKit), Combine
 - ⚙ **Instruments**: SwiftLint, SwiftGen, SwiftFormat
