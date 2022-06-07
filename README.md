@@ -15,7 +15,7 @@
 ![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=JiraSoftware&logoColor=0052CC)
 
 ### Tech Stack
-- 🏛 **Architecture**: MVC, MVVM, MVP, VIPER, [RxFeedback](https://github.com/NoTests/RxFeedback.swift), [ComposableArchitecture](https://github.com/pointfreeco/swift-composable-architecture)
+- 🏛 **Architecture**: MVC, MVVM, MVP, VIPER, [RxFeedback](https://github.com/NoTests/RxFeedback.swift), [ComposableArchitecture](https://github.com/pointfreeco/swift-composable-architecture), RIBs
 - ⚡ **Reactive programming**: [RxSwift](https://github.com/ReactiveX/RxSwift), [RxCocoa](https://github.com/ReactiveX/RxSwift/tree/main/RxCocoa), [RxGesture](https://github.com/RxSwiftCommunity/RxGesture), [RxMoya](https://github.com/Moya/Moya), [NSObject-Rx](https://github.com/RxSwiftCommunity/NSObject-Rx), [RxWebKit](https://github.com/RxSwiftCommunity/RxWebKit), [Combine](https://developer.apple.com/documentation/combine)
-- 🌍 **Network**: RESTful API ([Alamofire](https://github.com/Alamofire/Alamofire), [Moya](https://github.com/Moya/Moya)), GraphQL ([Apollo](https://github.com/apollographql/apollo-ios)), Socket ([Socket.IO](https://github.com/socketio/socket.io-client-swift))
+- 🌍 **Network**: [Alamofire](https://github.com/Alamofire/Alamofire), [Moya](https://github.com/Moya/Moya), [Apollo](https://github.com/apollographql/apollo-ios), [Socket.IO](https://github.com/socketio/socket.io-client-swift)
 - ⚙ **Instruments**: [SwiftLint](https://github.com/realm/SwiftLint), [SwiftGen](https://github.com/SwiftGen/SwiftGen), [SwiftFormat](https://github.com/nicklockwood/SwiftFormat)
