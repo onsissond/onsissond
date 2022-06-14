@@ -1,4 +1,4 @@
-### Hey! Nice to see you 👋
+### Hey! You're welcome 👋
 [![Linkedin Badge](https://img.shields.io/badge/-onsissond-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/onsissond/)](https://www.linkedin.com/in/onsissond/)
 <a href="mailto:onsissond@gmail.com"><img src="https://img.shields.io/badge/-onsissond@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 [![Habr Badge](https://img.shields.io/badge/-Habr-78a0b5?style=plastic&logo=Habr&logoColor=white&link=https://habr.com/ru/users/onsissond/posts/)](https://habr.com/ru/users/onsissond/posts/)
